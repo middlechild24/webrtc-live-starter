@@ -1,0 +1,8 @@
+server:
+  port: 8090
+
+livekit:
+  host: http://localhost:7880
+  api-key: "devkey"
+  api-secret: webrtc-live-starter-secret-key-2026
+  monitoring-enabled: true
